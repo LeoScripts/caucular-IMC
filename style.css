@@ -89,6 +89,30 @@ button:active{
   font: italic 1.5rem serif;
 }
 
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(111, 125, 138, 0.74);
+  
+}
+
+.sociais img{
+  background-color: rgba(255, 255, 240, 0);
+  width: 20px;
+  height: 20px;
+  border-radius: 30%;
+  padding: 0px 10px 0px 10px;
+  cursor: pointer;
+}
+p{
+  margin-top: -20px;
+  height: 10px;
+}
+  
+
+  
+
 @media only screen and (max-width: 500px) {
   
 
