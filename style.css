@@ -88,3 +88,58 @@ button:active{
   border-radius: 5px 30px 5px  30px;
   font: italic 1.5rem serif;
 }
+
+@media only screen and (max-width: 500px) {
+  
+
+  .container{
+   
+    width: 280px;
+    height: 500px;
+    border-radius: 5px  50px 5px 50px;
+  }
+  .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 30px;
+    font: bold 1rem serif;
+    margin-top: 0px;
+    border-radius: 20px;
+
+    
+  }
+  
+  button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+
+  }
+
+  
+  .input{
+
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  
+  .input input{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px ;
+    font-size: 1rem;
+    
+  }
+  
+  .result{
+    font: italic 1rem serif;
+    width: 200px;
+    height: 160px;
+    padding: 20px;
+    
+  }
+}
