@@ -82,8 +82,9 @@ button:active{
   padding: 20px;
   box-sizing: border-box;
   user-select: none;
-  color: rgb(6, 103, 160);
-  background-image: linear-gradient( 135deg, #acd3ff88 10%, #00eaff98 100%);
+  color: white;
+  
+  background-image: linear-gradient( 135deg, #acd3ff4f 10%, #00eaff98 100%);
   border-radius: 5px 30px 5px  30px;
-  font: italic 1.5 serif;
+  font: italic 1.5rem serif;
 }
