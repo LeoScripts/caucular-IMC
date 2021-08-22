@@ -118,9 +118,9 @@ p{
 
   .container{
    
-    width: 280px;
-    height: 500px;
-    border-radius: 5px  50px 5px 50px;
+    width: 290px;
+    height: 550px;
+    border-radius: 5px  40px 5px 40px;
   }
   .title{
     display: flex;
