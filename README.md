@@ -5,7 +5,7 @@ pequeno projeto de calculo indice de massa corporal
 <p> <img width="600" src="https://github.com/LeoScripts/caucular-IMC/blob/main/img/desktop.png"></p>
 
 <h2>Mobile</h2>
-<p><img src="https://github.com/LeoScripts/caucular-IMC/blob/main/img/mobile.png"> </p>
+<p><img width="600" src="https://github.com/LeoScripts/caucular-IMC/blob/main/img/mobile.png"> </p>
 
 <h2>Execução</h2>
 <p>Para executar oprojeto basta apenas abrir o arquivo <a href=""> index.html</a> em um navegador de sua preferencia</p>
