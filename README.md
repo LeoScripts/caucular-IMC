@@ -1,5 +1,5 @@
 # Caucular-IMC
-Pequeno projeto de calculo indice de massa corporal.
+Pequeno projeto de calculo de indice de massa corporal.
 <br>
 Aqui esta o link do projeto <a href="https://calcular-imc.surge.sh/">caulular-IMC</a> bom uso e se for possivel me de seu feedback nas minhas redes sociais os links  estam no final desta documentação e desde ja muito obrigado.
 
